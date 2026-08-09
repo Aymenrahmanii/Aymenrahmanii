@@ -1,30 +1,26 @@
-# Hi there, I'm Aymen Rahmani 👋
+<div align="center">
 
-[![PRO Badge](https://img.shields.io/badge/GitHub-PRO-blueviolet?style=for-the-badge&logo=github)](https://github.com/Aymenrahmanii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+# 🛠️ Aymen Rahmani
+### **AI Systems & Autonomous LLM Engineer**
 
-### 🤖 About Me
-I'm an **AI / Machine Learning Engineer** focused on building production-ready **Agentic Systems**, **Multimodal Vision-Language models**, and enterprise **RAG pipelines**.
-
-- 🔭 **Currently Building:** Enterprise Agentic LLM engines with safety & guardrail evaluations.
-- 💡 **Key Interests:** Autonomous Agents, Multimodal AI, Perception Engines, Socratic Learning Systems.
-- 📫 **How to reach me:** [Email Me](mailto:your-email@example.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Agentic+LLM+Workflows+%2B+Guardrails;Multimodal+Vision-Language+Architectures;Production+RAG+%2B+Vector+Search;Autonomous+Perception+Engines)](https://git.io/typing-svg)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub Pro](https://img.shields.io/badge/GitHub-PRO-8A2BE2?style=flat-square&logo=github&logoColor=white)](https://github.com/Aymenrahmanii)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 🧬 Engineering Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aymenrahmanii&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aymenrahmanii&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
+I specialize in moving Large Language Models and Multimodal AI from research to production. My work centers on **agentic orchestration, evaluation frameworks, custom guardrails, and context-aware retrieval (RAG)**.
+
+```yaml
+core_competencies:
+  architecture: [Agentic Workflows, Enterprise RAG, Multimodal VL Pipelines]
+  reliability: [Custom Model Evals, Safety Guardrails, Context Management]
+  domain: [Generative AI, Computer Vision, Automated Reasoning Systems]
